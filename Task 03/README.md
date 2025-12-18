@@ -2,8 +2,8 @@
 
 > *"In the arena of code, only the brave submit their work!"* 🎮
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-18%2015%3A08%20UTC-blue)
-![Submissions](https://img.shields.io/badge/Submissions-3-green)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-18%2016%3A04%20UTC-blue)
+![Submissions](https://img.shields.io/badge/Submissions-4-green)
 
 ## 🎯 The Challenge
 Build a Reddit Browser that fetches real data, displays posts beautifully, and works on mobile!
@@ -13,13 +13,13 @@ Build a Reddit Browser that fetches real data, displays posts beautifully, and w
 ## 🏅 Hall of Fame
 
 ### 🥇 First Place
-**Himath_Dhanapala** - 99/100
+**Himandhi_Asirini** - 99/100
 
 ### 🥈 Second Place
-**Kalana_Pankaja** - 99/100
+**Himath_Dhanapala** - 99/100
 
 ### 🥉 Third Place
-**Suhas_Dissa** - 99/100
+**Kalana_Pankaja** - 99/100
 
 ---
 
@@ -27,9 +27,10 @@ Build a Reddit Browser that fetches real data, displays posts beautifully, and w
 
 | Rank | Student | Score | Grade | Title | Last Updated | Attempts |
 |:----:|---------|:-----:|:-----:|-------|--------------|:--------:|
-| 🥇 | **Himath_Dhanapala** | 99/100 | 🌟 A | 👑 Supreme Redditor | 2025-12-18 14:14 UTC | 2 |
-| 🥈 | **Kalana_Pankaja** | 99/100 | 🌟 A | 🥈 Code Wizard | 2025-12-18 14:14 UTC | 2 |
-| 🥉 | **Suhas_Dissa** | 99/100 | 🌟 A | 🥉 Rising Star | 2025-12-18 14:14 UTC | 2 |
+| 🥇 | **Himandhi_Asirini** | 99/100 | 🌟 A | 👑 Supreme Redditor | 2025-12-18 16:04 UTC | 1 |
+| 🥈 | **Himath_Dhanapala** | 99/100 | 🌟 A | 🥈 Code Wizard | 2025-12-18 14:14 UTC | 2 |
+| 🥉 | **Kalana_Pankaja** | 99/100 | 🌟 A | 🥉 Rising Star | 2025-12-18 14:14 UTC | 2 |
+| 4 | **Suhas_Dissa** | 99/100 | 🌟 A | 🌟 Reddit Master | 2025-12-18 14:14 UTC | 2 |
 
 ---
 
@@ -48,6 +49,7 @@ Build a Reddit Browser that fetches real data, displays posts beautifully, and w
 
 ## 🚀 Recent Activity
 
+- **Himandhi_Asirini** updated their submission → 99/100 (2025-12-18 16:04 UTC)
 - **Himath_Dhanapala** updated their submission → 99/100 (2025-12-18 14:14 UTC)
 - **Kalana_Pankaja** updated their submission → 99/100 (2025-12-18 14:14 UTC)
 - **Suhas_Dissa** updated their submission → 99/100 (2025-12-18 14:14 UTC)
