@@ -13,25 +13,19 @@
 ```
 tech-stack-fundamentals-cse24/
 ├── README.md
-├── WORKSHOP_OVERVIEW.md
-├── SCHEDULE.md
+├── All Tasks/
+│   ├── Task 01.pdf
+│   ├── Task 02.pdf
+│   └── Task 03.pdf
 ├── Task 01/
 │   ├── README.md
-│   ├── task_instructions.pdf
 │   └── submissions/
 │       └── [Your_Name]/
 │           ├── index.html
 │           ├── style.css
 │           └── images/
-├── Task 02/
-│   ├── README.md
-│   ├── task_instructions.pdf
-│   └── submissions/
-│       └── [Your_Name]/
-│           └── index.html
 └── Task 03/
     ├── README.md
-    ├── task_instructions.pdf
     └── submissions/
         └── [Your_Name]/
             └── index.html
