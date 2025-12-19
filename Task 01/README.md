@@ -2,8 +2,8 @@
 
 > *"Your portfolio is your first impression in the tech world!"* 💼
 
-![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-19%2008%3A17%20UTC-blue)
-![Submissions](https://img.shields.io/badge/Submissions-9-green)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-2025-12-19%2008%3A19%20UTC-blue)
+![Submissions](https://img.shields.io/badge/Submissions-10-green)
 
 ## 🎯 The Challenge
 Build a professional portfolio website showcasing your skills, projects, and background using semantic HTML and responsive CSS!
@@ -16,10 +16,10 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 **Shaeshanth** - 86/100
 
 ### 🥈 Second Place
-**Dihini** - 73/100
+**chamath** - 78/100
 
 ### 🥉 Third Place
-**Sayuru_Pilapitiya** - 65/100
+**Dihini** - 73/100
 
 ---
 
@@ -28,14 +28,15 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 | Rank | Student | Score | Grade | Title | Last Updated |
 |:----:|---------|:-----:|:-----:|-------|--------------|
 | 🥇 | **Shaeshanth** | 86/100 | ✨ B | 👑 Portfolio Legend | 2025-12-19 07:31 UTC |
-| 🥈 | **Dihini** | 73/100 | 👌 C | 🥈 Design Master | 2025-12-19 07:21 UTC |
-| 🥉 | **Sayuru_Pilapitiya** | 65/100 | 📝 D | 🥉 Rising Designer | 2025-12-19 08:17 UTC |
-| 4 | **vishwa** | 60/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 06:33 UTC |
-| 5 | **Binuka** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 07:23 UTC |
-| 6 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:35 UTC |
-| 7 | **athishaya.j** | 31/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:47 UTC |
-| 8 | **suhas** | 18/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:26 UTC |
-| 9 | **Suhas_Dissa** | 6/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-18 19:28 UTC |
+| 🥈 | **chamath** | 78/100 | 👌 C | 🥈 Design Master | 2025-12-19 08:19 UTC |
+| 🥉 | **Dihini** | 73/100 | 👌 C | 🥉 Rising Designer | 2025-12-19 07:21 UTC |
+| 4 | **Sayuru_Pilapitiya** | 65/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 08:17 UTC |
+| 5 | **vishwa** | 60/100 | 📝 D | 🔧 Keep Pushing | 2025-12-19 06:33 UTC |
+| 6 | **Binuka** | 56/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 07:23 UTC |
+| 7 | **Sachini_Gunasekara** | 38/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:35 UTC |
+| 8 | **athishaya.j** | 31/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:47 UTC |
+| 9 | **suhas** | 18/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-19 06:26 UTC |
+| 10 | **Suhas_Dissa** | 6/100 | 🔨 F | 🚀 Just Getting Started | 2025-12-18 19:28 UTC |
 
 ---
 
@@ -53,11 +54,11 @@ Build a professional portfolio website showcasing your skills, projects, and bac
 
 ## 🚀 Recent Activity
 
+- **chamath** updated their portfolio → 78/100 (2025-12-19 08:19 UTC)
 - **Sayuru_Pilapitiya** updated their portfolio → 65/100 (2025-12-19 08:17 UTC)
 - **Shaeshanth** updated their portfolio → 86/100 (2025-12-19 07:31 UTC)
 - **Binuka** updated their portfolio → 56/100 (2025-12-19 07:23 UTC)
 - **Dihini** updated their portfolio → 73/100 (2025-12-19 07:21 UTC)
-- **athishaya.j** updated their portfolio → 31/100 (2025-12-19 06:47 UTC)
 
 ---
 
